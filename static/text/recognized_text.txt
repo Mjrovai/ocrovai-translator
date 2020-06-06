@@ -1,0 +1,44 @@
+Notas para a apresentação final da tese
+
+Slide n. ? 1
+e Bom dia
+Marcelo Rovai e eu sou e esta é a apresentação do trabalho final para
+nomeação para o título mestre de dados Ciência
+e este trabalho visa estudar as contas de usuário do Twitter
+para detectar comportamento social suspeito
+
+Slide n. * 2
+
+e boa notícia é que o tráfego humano na Internet está crescendo e passou
+
+menos do que 50% em 2016 para mais de 60% em 2018
+
+e [CLICK]
+A má notícia é que os bandidos são mais inteligentes e Bots sofisticados e
+por tanto
+[CLIQUE]
+Constantemente mudar seu comportamento para evitar a detecção
+[CLIQUE]
+No Twitter, a estimativa é de que algo como 13% das contas são bots
+automatizado.
+
+Slide n. ? 3
+e-chamado espaço de "bots sociais" são fortemente influenciando
+Social
+e isto não só nos casos familiares e famosos de eleições
+US 2016 e no processo da Brexit,
+E, mas também em todo, como no caso do estalido no Chile, Brasil
+de Bolsonaro, Colômbia, México etc.
+
+Slide n. * 4
+e bots sociais são software que controle Twitter responde por
+personificando humana
+e [CLICK]
+simples e bots evoluiu e mistura completamente automatizado
+com os seres humanos, chamado de cyborgs
+e [CLICK]
+Bots e cyborgs e também trabalhar em redes (botnets) para facilitar
+espalhando notícias falsas.
+- e [CLICK])
+e também é importante mencionar os Trolls, que não são bots, mas humana (a
+às vezes oculto) relacionado ao cyberbullying
